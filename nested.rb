@@ -82,7 +82,7 @@ def adding_matz
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["C"]
+          :languages => "C"
         }
      }
      programmer_hash[:yukihiro_matsumoto] = {
@@ -107,7 +107,7 @@ def changing_alan
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["C"]
+          :languages => "C"
         }
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
