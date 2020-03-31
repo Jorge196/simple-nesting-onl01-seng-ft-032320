@@ -60,7 +60,7 @@ def dennis_ritchies_language
         }
      }
      programmer_hash[:dennis_ritchie]
-     [:languages][1]
+     [:languages]["C"]
 end
 
 def adding_matz
